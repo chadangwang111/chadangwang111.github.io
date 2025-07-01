@@ -1,6 +1,7 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "title":"查询个人信息",
+    "subTitle":"免费人开盒",
+    "avatarUrl":"https://chadangwang.com/static/images/logo.png",
+    "GMEEK_VERSION":"last",
+    "primerCSS":"<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/Primer/21.1.1/primer.css'>"
 }
